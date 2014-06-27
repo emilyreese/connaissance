@@ -2,7 +2,7 @@
 title: Connaissance
 email: eclaire.reese@gmail.com
 description: "Les mots que j'ai appris"
-baseurl: ""
+baseurl: /connaissance
 url: "http://emilyreese.github.io/connaissance"
 
 # Build settings
