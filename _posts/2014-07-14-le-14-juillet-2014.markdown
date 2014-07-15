@@ -14,4 +14,3 @@ categories: mots
 **Ne vous fiez pas aux apparences.**: don't trust appearances
 
 **par ordre de préférence**: in order of preference 
-
