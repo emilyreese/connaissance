@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "le 15 août 2014"
+date:   2014-08-15 21:36:01
+categories: mots
+---
+
+**un rouge-gorge**: a robin bird
+
+**un merle**: blackbird
+
+**un merlebleu**: a bluebird
