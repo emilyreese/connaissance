@@ -54,6 +54,7 @@ a:visited { color: #ED2939; }
 .site-title,
 .site-title:hover,
 .site-title:visited {
+  padding-top: 8px;
   display: block;
   color: white;
   font-size: 26px;
@@ -65,6 +66,7 @@ a:visited { color: #ED2939; }
 
 .site-nav {
   float: right;
+  padding-top: 16px;
 }
 
 .site-nav .menu-icon { display: none; }
